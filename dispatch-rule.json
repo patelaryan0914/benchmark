@@ -1,0 +1,10 @@
+{
+  "trunk_ids": ["ST_Eo4WEsvd4UdN"],
+  "hide_phone_number": false,
+  "rule": {
+    "dispatchRuleDirect": {
+      "roomName": "open-room",
+      "pin": ""
+    }
+  }
+}

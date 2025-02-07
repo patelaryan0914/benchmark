@@ -1,0 +1,9 @@
+{
+  "trunk": {
+    "name": "Bechmark Outbound",
+    "address": "benchmark.pstn.twilio.com",
+    "numbers": ["+14252875876"],
+    "auth_username": "Aryan0914",
+    "auth_password": "Aryan0914"
+  }
+}
